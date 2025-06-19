@@ -31,4 +31,6 @@ Even numbers: [2, 4, 6, 8, 10]
 Product: 3628800  
 Doubled evens: [4, 8, 12, 16, 20]  
 Squared odds: [1, 9, 25, 49, 81]
+
 📘 [Click here to view the full notebook](real_world_list_ops.ipynb)
+
